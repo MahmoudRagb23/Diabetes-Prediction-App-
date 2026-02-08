@@ -1,2 +1,22 @@
-# Diabetes-Prediction-App-
-A Streamlit-based web app for predicting diabetes risk using a trained Machine Learning model.
+# 🩺 Diabetes Prediction App
+
+This web application allows users to **predict the risk of diabetes** based on several medical features using a **trained Random Forest Machine Learning model**.
+
+## Features
+- Enter patient information including age, BMI, glucose level, blood pressure, insulin, skin thickness, pregnancies, and family diabetes history.
+- Real-time prediction of diabetes risk (High Risk / Low Risk) with explanatory messages and health recommendations.
+- Simple, user-friendly Streamlit interface for easy interaction.
+
+## Technologies Used
+- Python 3
+- Streamlit
+- NumPy
+- Pandas
+- scikit-learn
+- joblib
+
+## How to Run
+1. Clone the repository:
+```bash
+git clone https://github.com/USERNAME/DiabetesApp.git
+
